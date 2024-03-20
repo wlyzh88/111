@@ -1,13 +1,13 @@
 #EXTM3U
-#EXTINF:-1 group-title="花花频道,#genre#",松33
+#EXTINF:-1,松33
 http://18.svi-studio.com:80/live/176619383282/537544338952/20205.m3u8
-#EXTINF:-1 group-title="花花频道,#genre#",惊1
+#EXTINF:-1,惊1
 http://18.svi-studio.com:80/live/176619383282/537544338952/1.m3u8
-#EXTINF:-1 group-title="花花频道,#genre#",完美
+#EXTINF:-1,完美
 http://18.svi-studio.com:80/live/176619383282/537544338952/3.m3u8
-#EXTINF:-1 group-title="花花频道,#genre#",香蕉
+#EXTINF:-1,香蕉
 http://18.svi-studio.com:80/live/176619383282/537544338952/4.m3u8
-#EXTINF:-1 group-title="花花频道,#genre#",松11
+#EXTINF:-1,松11
 http://18.svi-studio.com:80/live/176619383282/537544338952/5.m3u8
-#EXTINF:-1 group-title="花花频道,#genre#",松22
+#EXTINF:-1,松22
 http://18.svi-studio.com:80/live/176619383282/537544338952/6.m3u8
