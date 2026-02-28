@@ -1,0 +1,585 @@
+{
+    "wallpaper": "https://tuapi.eees.cc/api.php?category=fengjing&type=302",
+    "homepage": "https://github.com/hjdhnx/hipy-server",
+    "homeLogo": "./img/logo500x200-1.png",
+    "spider": "",
+    "warningText": "欢迎使用4K云，祝您观影愉快",
+    "sites": [
+        {
+            "key": "新腾极4k",
+            "name": "👻宝全4k臻彩HDR",
+            "type": 3,
+            "api": "https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "order_num": 0,
+            "changeable": 0,
+            "ext": "http://wang.qijiyun.vip/宝全4k奇迹/lib/宝全4k奇迹.js"
+        },
+        {
+            "key": "芒果弹幕",
+            "name": "👻宝全4k原画臻彩",
+            "type": 3,
+            "api": "https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js",
+            "ext": "http://wang.qijiyun.vip/宝全4k奇迹/lib/宝全4k奇迹mg.js"
+        },
+        {
+            "key": "木偶",
+            "name": "💯木偶宝全4k免扫",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/yunok.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "Muou",
+                "cookie": "http://wang.qijiyun.vip/宝全4k奇迹/lib/菲菲ck.jpg",
+                "uc_cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/uc.png",
+                "baidu_cookie": "http://wang.qijiyun.vip/宝全4k奇迹/lib/bd.txt"
+            },
+            "timeout": 25
+        },
+        {
+            "key": "玩偶",
+            "name": "💯玩偶宝全4k免扫",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/yunok.jar",
+            "searchable": 1,
+            "filterable": 1,
+            "changeable": 1,
+            "ext": {
+                "sp": "Wogg",
+                "cookie": "http://wang.qijiyun.vip/宝全4k奇迹/lib/菲菲ck.jpg",
+                "uc_cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/uc.png",
+                "baidu_cookie": "http://wang.qijiyun.vip/宝全4k奇迹/lib/bd.txt"
+            },
+            "timeout": 30
+        },
+        {
+            "key": "多多",
+            "name": "💯多多宝全4k免扫",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/yunok.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "DuoDuo",
+                "cookie": "http://wang.qijiyun.vip/宝全4k奇迹/lib/菲菲ck.jpg",
+                "uc_cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/uc.png",
+                "baidu_cookie": "http://wang.qijiyun.vip/宝全4k奇迹/lib/bd.txt"
+            },
+            "timeout": 25
+        },
+        {
+            "key": "至臻",
+            "name": "💯至臻宝全4k免扫",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/yunok.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "ZhiZhen",
+                "cookie": "http://wang.qijiyun.vip/宝全4k奇迹/lib/菲菲ck.jpg",
+                "uc_cookie": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/jars/uc.png",
+                "baidu_cookie": "http://wang.qijiyun.vip/宝全4k奇迹/lib/bd.txt"
+            },
+            "timeout": 25
+        },
+        {
+            "key": "移动",
+            "name": "🌨HDR❤️免扫移动4k",
+            "type": 3,
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/yunY.jar",
+            "api": "csp_YDjisu",
+            "searchable": 1,
+            "changeable": 1
+        },
+        {
+            "key": "瓜子影视",
+            "name": "🌨瓜子❤️2k蓝光",
+            "type": 3,
+            "api": "csp_Gz360",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/tvkj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "片喵",
+            "name": "🌨独家❤️2k蓝光",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": {
+                "url": "https://svip.2video.cc",
+                "header": {
+                    "content-type": "application/json",
+                    "x-app-signature": "70:DF:B1:2A:AE:C3:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:1D:3F:3C:3C:B9:10:9E:EE",
+                    "x-app-package": "com.ds.wlss",
+                    "x-app-version-code": "56",
+                    "x-app-version-name": "1.2.6"
+                }
+            },
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/anB.jar"
+        },
+        {
+            "key": "金牌",
+            "name": "🌨金龙❤️2k蓝光",
+            "type": 3,
+            "api": "csp_AppNox",
+            "ext": {
+                "url": "https://jp5.ggtvb.cc",
+                "header": {
+                    "content-type": "application/json",
+                    "x-app-signature": "50:AF:B5:6A:NE:C4:E3:73:6E:23:0F:67:B9:3B:C5:63:2D:EA:2A:2C:9E:9D:52:82:3D:8F:0C:3C:B9:10:9E:XY",
+                    "x-app-package": "com.jp.tv",
+                    "x-app-version-code": "11",
+                    "x-app-version-name": "1.1.1"
+                }
+            },
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/anB.jar"
+        },
+        {
+            "key": "农牧",
+            "name": "🌨农牧❤️2k蓝光",
+            "type": 3,
+            "api": "csp_XYQHiker",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/kj1203.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": "http://wang.qijiyun.vip/宝全4k奇迹/lib/农牧影视.json"
+        },
+        {
+            "key": "热播影视",
+            "name": "🌨热播❤️2k蓝光",
+            "type": 3,
+            "api": "csp_AppRJ",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/tvkj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "ext": {
+                "url": "http://v.rbotv.cn"
+            }
+        },
+        {
+            "key": "苹果影视",
+            "name": "🌨苹果❤️2k蓝光",
+            "type": 3,
+            "api": "csp_LiteApple",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/tvkj.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+        {
+            "key": "量子",
+            "name": "🌨量子❤️2k蓝光",
+            "type": 1,
+            "api": "http://cj.lziapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 0,
+            "playurl": "json:https://lziplayer.com/?url=",
+            "categories": [
+                "国产剧",
+                "国产动漫",
+                "泰国剧",
+                "台湾剧",
+                "香港剧",
+                "欧美剧",
+                "韩国剧",
+                "日本剧",
+                "动漫",
+                "体育",
+                "剧情片",
+                "动作片",
+                "爱情片",
+                "喜剧片"
+            ]
+        },
+        {
+            "key": "仓鼠",
+            "name": "🌨仓鼠❤️4K",
+            "type": 3,
+            "api": "csp_AppGetV2",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "jar": "https://img2.gelonghui.com/library/c4def-29ea7616-d551-4a73-9b31-cace1447426d.png;md5;c4def4496c2e1a0959c8fedfaff41488",
+            "ext": "pghUv+IPbIqGFEhny2nISo6q1U3I9nHoNa/iHpCGtvb/Z7AclrLHwfwwyHDOwlw+atwP39gPrsYXKDI2Mngr/+2oFaQiwYBOw20A/zpOef2PJhp0gISCLDyOOYtqku0RNCx0R7ClMxfgscA//pQaZEjeTx4K6ZolxVEj8KM1Vv6EI90iHnRKqIp1svmftZHfi/GL/C7LAEWfo0g8L8lEqe4nNXFecvk0JibeCb5FKCpck8aCsVSlrjVmbYCEHCTIXRYssqMokxKNEVvEqFB7p2DOoScmKCoVjSE0AWhBaykPGZXJG0SdnhBlNDNtBJD/"
+        },
+        {
+            "key": "柠檬",
+            "name": "🌨柠檬❤️HDR4k蓝光",
+            "type": 3,
+            "api": "csp_Nmvod",
+            "playerType": 2,
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/柠檬.jar",
+            "ext": "7lj763gg402i7942503g839jg74h8h88highi40799jh6i6k454419l0l5184k0g549h0kg2i01i838i2h42g891lgg1"
+        },
+        {
+            "key": "顾我",
+            "name": "🌨独奏❤️HDR4k蓝光",
+            "type": 3,
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/baipiaoya.apk",
+            "api": "csp_AppBpy",
+            "changeable": "1",
+            "quickSearch": 0,
+            "filterable": 1,
+            "ext": {
+                "site": "http://wang.qijiyun.vip/宝全4k奇迹/lib/gwzj.txt",
+                "dataKey": "ca94b06ca3c7d80e",
+                "dataIv": "ca94b06ca3c7d80e",
+                "ua": "okhttp/3.10.0"
+            }
+        },
+        {
+            "key": "冥王",
+            "name": "🌨冥王❤️2k蓝光",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "searchable": 1,
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/xs.jar;md5;f17d6e52c0e006b86770eba848a53949",
+            "quickSearch": 1,
+            "filterable": 1,
+            "ext": {
+                "线路数组": "<a data-toggle=\"tab\"&&/a>",
+                "线路标题": ">&&<",
+                "分类url": "http://dyxz.tv/list/{cateId}_{catePg}.html",
+                "分类": "电影$1#电视剧$2#动漫$3#综艺$4"
+            }
+        },
+        {
+            "key": "糯米",
+            "name": "诺雪❤️HDR4k蓝光",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/tx.jar",
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "Nmys",
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
+            "key": "韩圈",
+            "name": "韩剧❤️HDR4k蓝光",
+            "type": 3,
+            "api": "csp_AweSomeGuard",
+            "jar": "http://wang.qijiyun.vip/宝全4k奇迹/jar/tx.jar",
+            "playerType": 2,
+            "searchable": 1,
+            "quickSearch": 1,
+            "changeable": 1,
+            "filterable": 1,
+            "ext": {
+                "sp": "HanXiaoQuan",
+                "danmu": true
+            },
+            "timeout": 10
+        },
+        {
+            "key": "星芽2",
+            "name": "🌨短剧❤️星芽",
+            "type": 3,
+            "api": "https://gitee.com/ltby1/one/raw/master/lib/drpy2.min.js",
+            "ext": "https://lz.qaiu.top/parser?url=https://share.feijipan.com/s/qhXX5BDH"
+        },
+        {
+            "key": "温馨提示1",
+            "name": "宝全系提醒:",
+            "type": 3,
+            "api": "csp_PushGuard",
+            "playerType": "1",
+            "searchable": 0
+        },
+        {
+            "key": "%5cu6e29%5cu99a8%5cu63d0%5cu793a3",
+            "name": "%5cu4e25%5cu7981%5cu76d7%5cu7528%5cu552e%5cu5356",
+            "type": 3,
+            "api": "csp_pushguard",
+            "playertype": "1",
+            "searchable": 0
+        }
+    ],
+    "doh": [
+        {
+            "name": "google",
+            "url": "https://dns.google/dns-query",
+            "ips": [
+                "8.8.4.4",
+                "8.8.8.8"
+            ]
+        },
+        {
+            "name": "cloudflare",
+            "url": "https://cloudflare-dns.com/dns-query",
+            "ips": [
+                "1.1.1.1",
+                "1.0.0.1",
+                "2606:4700:4700::1111",
+                "2606:4700:4700::1001"
+            ]
+        },
+        {
+            "name": "adguard",
+            "url": "https://dns.adguard.com/dns-query",
+            "ips": [
+                "94.140.14.140",
+                "94.140.14.141"
+            ]
+        },
+        {
+            "name": "dnswatch",
+            "url": "https://resolver2.dns.watch/dns-query",
+            "ips": [
+                "84.200.69.80",
+                "84.200.70.40"
+            ]
+        },
+        {
+            "name": "quad9",
+            "url": "https://dns.quad9.net/dns-quer",
+            "ips": [
+                "9.9.9.9",
+                "149.112.112.112"
+            ]
+        }
+    ],
+    "rules": [
+        {
+            "name": "kk",
+            "hosts": [
+                "kuaikan"
+            ],
+            "regex": [
+                "5",
+                "20.123",
+                "20.167",
+                "%23ext-x-discontinuity%5c%5cr*%5c%5cn*%28%28?%21%23ext-x-discontinuity%29[%5c%5cs%5c%5cs]%29*?%23ext-x-key:method%28%28?%21%23ext-x-discontinuity%29[%5c%5cs%5c%5cs]%29*?%23ext-x-discontinuity"
+            ]
+        },
+        {
+            "name": "yqk",
+            "hosts": [
+                "ydd"
+            ],
+            "regex": [
+                "18.4",
+                "15.1666",
+                "16.5333"
+            ]
+        },
+        {
+            "name": "yqk",
+            "hosts": [
+                "yqk"
+            ],
+            "regex": [
+                "18.4",
+                "15.1666",
+                "%23ext-x-discontinuity%5c%5cr*%5c%5cn*%28%28?%21%23ext-x-discontinuity%29[%5c%5cs%5c%5cs]%29*?%23ext-x-cue-out%28%28?%21%23ext-x-discontinuity%29[%5c%5cs%5c%5cs]%29*?%23ext-x-cue-in"
+            ]
+        },
+        {
+            "name": "sn",
+            "hosts": [
+                "suonizy"
+            ],
+            "regex": [
+                "%23extinf.*?%5c%5cs+.*?original.*?%5c%5c.ts%5c%5cs+",
+                "15.1666",
+                "15.2666",
+                "16.3333",
+                "15.266667"
+            ]
+        },
+        {
+            "name": "bf",
+            "hosts": [
+                "bfzy"
+            ],
+            "regex": [
+                "%23ext-x-discontinuity%5c%5cr*%5c%5cn*%23extinf:3,[%5c%5cs%5c%5cs]*?%23ext-x-discontinuity"
+            ]
+        },
+        {
+            "name": "xx",
+            "hosts": [
+                "aws.ulivetv.net"
+            ],
+            "regex": [
+                "%23ext-x-discontinuity%5c%5cr*%5c%5cn*%23extinf:8,[%5c%5cs%5c%5cs]*?%23ext-x-discontinuity"
+            ]
+        },
+        {
+            "name": "lz",
+            "hosts": [
+                "vip.lz",
+                "hd.lz",
+                "v.cdnlz",
+                "yzzy1.play"
+            ],
+            "regex": [
+                "18.5333",
+                "19.52",
+                "18.6666"
+            ]
+        },
+        {
+            "name": "ff",
+            "hosts": [
+                "vip.ffzy",
+                "hd.ffzy",
+                "ffzy"
+            ],
+            "regex": [
+                "25.0666",
+                "25.08",
+                "20.52",
+                "25.1",
+                "25.1999"
+            ]
+        },
+        {
+            "name": "hs",
+            "hosts": [
+                "huoshan.com"
+            ],
+            "regex": [
+                "item_id="
+            ]
+        },
+        {
+            "name": "dy",
+            "hosts": [
+                "douyin.com"
+            ],
+            "regex": [
+                "is_play_url="
+            ]
+        },
+        {
+            "name": "nm",
+            "hosts": [
+                "toutiaovod.com"
+            ],
+            "regex": [
+                "video/tos/cn"
+            ]
+        },
+        {
+            "name": "cl",
+            "hosts": [
+                "magnet"
+            ],
+            "regex": [
+                "%5cu6700 %5cu65b0",
+                "%5cu76f4 %5cu64ad",
+                "%5cu66f4 %5cu65b0"
+            ]
+        }
+    ],
+    "flags": [
+        "youku",
+        "qq",
+        "iqiyi",
+        "qiyi",
+        "letv",
+        "sohu",
+        "tudou",
+        "pptv",
+        "mgtv",
+        "cctv",
+        "cntv",
+        "wasu",
+        "bilibili",
+        "xigua",
+        "1905",
+        "1920i",
+        "1920l",
+        "mim3u8",
+        "laodim3u8",
+        "leduo",
+        "cl4k",
+        "ltnb",
+        "rx",
+        "renrenmi",
+        "wuduyun",
+        "xueren",
+        "naifeimi",
+        "miaoparty",
+        "miaoparty2",
+        "miaoparty3",
+        "xfy",
+        "xfyun",
+        "x1play",
+        "fuckapp",
+        "duoduozy",
+        "ftqp2",
+        "ftqp3",
+        "ftqp4",
+        "ftqp5"
+    ],
+    "ijk": [
+        {
+            "group": "%5cu8f6f%5cu89e3%5cu7801",
+            "options": [
+                {
+                    "category": 4,
+                    "name": "opensles",
+                    "value": "0"
+                },
+                {
+                    "name": "%5cu534e%5cu65702",
+                    "urls": [
+                        "proxy://do=live%26type=txt%26ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/%5cu534e%5cu65702.m3u"
+                    ]
+                },
+                {
+                    "name": "%5cu676d%5cu5dde%5cu534e%5cu6570",
+                    "urls": [
+                        "proxy://do=live%26type=txt%26ext=http://127.0.0.1:9978/api/v1/file/drpy_dzlive/lives/%5cu676d%5cu5dde%5cu534e%5cu6570.m3u"
+                    ]
+                },
+                {
+                    "name": "%5cu4e91%5cu661f%5cu65e5%5cu8bb0%5cu76f4%5cu64ad",
+                    "urls": [
+                        "proxy://do=live%26type=txt%26ext=http://itvbox.cc/%5cu4e91%5cu661f%5cu65e5%5cu8bb0/ipv4.txt"
+                    ]
+                },
+                {
+                    "name": "%5cu672c%5cu5730%5cu55c5%5cu63a2%5cu5668%5cu76f4%5cu64ad",
+                    "urls": [
+                        "proxy://do=live%26type=txt%26ext=http://yun.yunqiji.vip/%5cu4e91vipzbtv.json"
+                    ]
+                }
+            ]
+        }
+    ],
+    "lives": [
+        {
+            "name": "live",
+            "type": 0,
+            "playertype": 1,
+            "url": "http://rihou.cc:567/gggg.nzk",
+            "ua": "okhttp/3.15",
+            "epg": "http://epg.51zmt.top:8000/api/diyp/?ch={name}%26date={date}"
+        }
+    ]
+}
