@@ -11,6 +11,17 @@
             "filterable": 1
         }, 
         {
+            "key": "吃瓜网",
+            "name": "💗吃瓜网💗",
+            "type": 3,
+            "api": "./py/吃瓜网.py",
+            "searchable": 1,
+            "changeable": 1,
+            "quickSearch": 1,
+            "filterable": 1,
+            "playerType": 2
+        },             
+        {
             "key": "8004", 
             "name": "桃花资源", 
             "type": 1, 
